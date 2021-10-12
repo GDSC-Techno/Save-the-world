@@ -32,5 +32,18 @@ int main()
 	}
 	
 	//add code here
+	for(int i=n; i>0;i--)
+	{
+		for(int k=i; k<n-1; k++)
+		{
+			cout<<" ";
+		}
+	
+		for(int j=i; j>0; j--)
+		{
+			cout<<"* ";
+		}
+		cout<<endl;
+	}
 	
 }
