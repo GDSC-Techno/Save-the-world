@@ -4,7 +4,7 @@ using namespace std;
 void line()
 {
 	//add code here
-	cout<<"< L - I - N - E >"<<endl;
+	cout<<"= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = ="<<endl;
 }
 int main()
 {
