@@ -42,7 +42,7 @@ int main()
 			{
     		  	cout << "* ";
     		}
+      main
     		cout << endl;
   		}
-	
 }
